@@ -3,9 +3,9 @@
 A Sudoku-style puzzle game implemented in 6502 assembly for the Nintendo Entertainment System (NES).
 
 <p align="left">
-  <img src="screenshots/title_screen.png" width="30%" />
+  <img src="screenshots/title_screen_v2.png" width="30%" />
   &nbsp;&nbsp;&nbsp;
-  <img src="screenshots/mid_play.png" width="30%" />
+  <img src="screenshots/mid_play_v2.png" width="30%" />
 </p>
 
 ## Overview
